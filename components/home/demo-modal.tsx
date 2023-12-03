@@ -30,7 +30,7 @@ const DemoModal = ({
           </a>
           <h3 className="font-display text-2xl font-bold">Precedent</h3>
           <p className="text-sm text-gray-500">
-            PETER E PENELOPE
+            Peter & Penelope, gozando juntos desde 2014
           </p>
         </div>
       </div>
